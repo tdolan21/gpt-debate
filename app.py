@@ -14,6 +14,9 @@ from langchain.agents import Tool
 from langchain.agents import initialize_agent
 from langchain.agents import AgentType
 from langchain.agents import load_tools
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
 class DialogueAgent:
