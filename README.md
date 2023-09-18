@@ -10,6 +10,9 @@ Python 3.9+
 ## Installation
 
 ``` bash
-pip install langchain duckduckgo-search argxiv wikipedia openai
+git clone https://github.com/tdolan21/gpt-debate.git
+cd gpt-debate
+pip install -r requirements.txt
+streamlit run app.py
 ```
 
