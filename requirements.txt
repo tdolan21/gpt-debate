@@ -1,2 +1,7 @@
 langchain==0.0.293
 python-dotenv==1.0.0
+streamlit
+arxiv
+openai
+wikipedia
+duckduckgo-search
